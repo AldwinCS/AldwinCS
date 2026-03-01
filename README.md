@@ -2,12 +2,18 @@
 A graduating CS student passionate about data analytics and building practical projects with Python and JavaScript.<br>
 
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
-<div align="center">
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=cpp,js,python,php" />
 
-<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,php,django,mysql&perline=4" />
+**Web Development**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,django" />
 
-</div>
+**Database**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
